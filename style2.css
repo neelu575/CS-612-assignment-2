@@ -1,0 +1,64 @@
+nav{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: blueviolet;
+    width: 25%;
+    color: black;
+    height: 100vh;
+    float: left;
+    text-align: center;
+}
+.header{
+    height:120px;
+    background-image: url(https://media.istockphoto.com/photos/mountain-peak-zugspitze-summer-day-at-lake-eibsee-near-garmisch-picture-id1042404662?k=20&m=1042404662&s=612x612&w=0&h=Bjb0K0_frNQp9RSSrcERDe_tkh8E3iBs5dGcIrApD4E=);
+    background-size: 100% 15vh;
+}
+
+.outer_main{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-size: medium;
+    background-color: rgb(0, 0, 0);
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    color: blue;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.inner_main{
+    font-family: monospace;
+    font-style: normal;
+    font-size: large;
+    background-color: black;
+    color: blue;
+    text-align: left;
+    margin-left: 5px;
+}
+.hobby_links{
+    text-align: left; 
+    font-size: large;
+}
+footer{
+    font-style: oblique;
+    text-align: center;
+    color: black;
+    
+}
+.welcome_pic{
+    display:block;
+    height: 110px;
+    width: 100%;
+    border-top: 2px solid blue;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
+}
+aside
+{
+    width: 25%;
+    background-color: blue;
+    float: right;
+    height: 100vh;
+}
