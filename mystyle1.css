@@ -1,0 +1,84 @@
+*{margin: 0; padding: 0;
+}
+body{
+    background-color:white ;
+}
+nav{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    color: 9CFF2E;
+    width:25%;
+    height: 80px;
+    float: left;
+    text-align: center;
+    border-top: 2px solid #fefffd;
+    border-bottom: 2px solid #fefefd;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+
+}
+.header{
+   width:1000px;
+    height:250px;
+    background-image: url(C:\Users\Neelema\Desktop\html files\my image.png);
+background-size: 500px 200px;
+    
+}
+main{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-size: medium;
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    
+    
+}
+aside{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    color: 9CFF2E;
+    width: 25%;
+    float: right;
+    height: 80vh;
+    font-size: medium;
+    border-top: 2px solid #fcfffa;
+    border-bottom: 2px solid #fdfefc;
+    border-left: 2px solid #fcfdfb;
+    border-right: 2px solid #f3f6f2;
+}
+footer{
+    background-color: #f7fbf5;
+    font-style: oblique;
+    text-align: center;
+    color: black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+.welcome_pic{
+    display:block;
+    height: 110px;
+    width: 100%;
+    border-top: 2px solid #fafdf9;
+    border-left: 2px solid #fcfcfc;
+    border-right: 2px solid #ffffff;
+}
+.outer_main{
+    display: flex;
+    justify-content: center;
+}
+.para_main{
+    font-family: monospace;
+    font-size: larger;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 1px;
+}
+.fav_links{
+    text-align: left;
+    margin-left: 1.5rem;
+}

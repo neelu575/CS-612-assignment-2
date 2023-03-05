@@ -1,0 +1,67 @@
+nav{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: pink;
+    width: 25%;
+    color: white;
+    height: 100vh;
+    float: left;
+    text-align: center;
+}
+.header{
+    height:250px;
+width:150px;
+    background-image: url(C:\Users\Neelema\Desktop\html files\my image.png);
+
+
+    
+}
+
+.outer_main{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-size: medium;
+    background-color: rgb(0, 0, 0);
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    color: blue;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.inner_main{
+    font-family: monospace;
+    font-style: normal;
+    font-size: large;
+    background-color: black;
+    color: blue;
+    text-align: left;
+    margin-left: 5px;
+}
+.hobby_links{
+    text-align: left; 
+    font-size: large;
+}
+footer{
+    font-style: oblique;
+    text-align: center;
+    color: black;
+    
+}
+.welcome_pic{
+    display:block;
+    height: 110px;
+    width: 100%;
+    border-top: 2px solid blue;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
+}
+aside
+{
+    width: 25%;
+    background-color: pink;
+    float: right;
+    height: 100vh;
+}
